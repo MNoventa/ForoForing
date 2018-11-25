@@ -1,0 +1,232 @@
+	img#logo{
+		margin: 7px 60px 0px 0px;
+		float: left;
+		display: block;
+		width: 150px;
+		transition: all 0.2s;
+	}
+	.contenedorFirstInfo{
+		float: left;
+		width: 50%;
+	}
+	.contGnral.formYFirstInfo{
+		padding-top: 250px;
+	}
+
+	.contGnral.formYFirstInfo{
+		padding-top: 150px;
+		width: 80%;
+	}
+
+	h1, h3{
+		font-size: 45px;
+	}
+	.divNavegacion{
+	width: 40%;
+	box-shadow: 0px 0px 15px #D5D4D4, 0px 0px 1px #C4C4C4;
+	margin: 0px auto;
+	text-align: center;
+	margin-bottom: 50px;
+	padding: 15px 5px 5px 5px;
+	background-color: #fff;
+}
+
+	#headerNav .contGnral ul li a{
+		text-decoration: none;
+		color: white;
+		transition: all 0.2s;
+		font-size: 15px;
+		display: inline-block;
+		padding-bottom: 5px;
+	}
+
+		ul{
+		display: block;
+		float: right;
+		list-style: none;
+		margin-top: 20px;
+		transition: all 0.3s;
+		background: red;
+	}
+
+	.wrap.formunico{
+	border-radius: 8px;
+}
+	
+.contenedorFormulario.formconj{
+	float: right;
+	width: 400px;
+}
+
+	.contGnral{
+		width: 60%;
+		margin: 0 auto;
+	}
+
+	#contTemas .elemContTemas{
+		float: left;
+		margin: 0px;
+		box-shadow: 0 0 0 1px #C8C8C8;
+		background: white;
+		transition: all 0.5s;
+		height: 200px;
+	}
+.formunico a.volverInicio{
+	float: right;
+	font-size: 15px;
+	display: block;
+	background-color: #4AA184;
+	text-decoration: none;
+	color: white;
+	margin-top: 20px;
+	padding: 10px;
+	border-radius: 8px;
+	transition: all 0.2s;
+}
+
+.formunico h2{
+	font-size: 40px;
+	margin-bottom: 50px;
+}
+
+.formulario{
+	width: 60%;
+	margin: auto;
+}
+
+	.contGnral.formunico{
+		padding-top: 100px;
+	}
+
+		section#banner .contGnral.secComentarios{
+		padding-top: 150px;
+		width: 60%;
+		margin: 0 auto;
+
+	}
+
+	.secComentariosClass{
+		width: 100%;
+		background-color: #fff; 
+		padding: 20px;
+		min-height: 780px;
+		box-shadow: 0px 0px 25px #C2C2C2;
+		margin-bottom: 50px;
+	}
+
+		.temaCmntFlex{
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.temaCmntFlex .temaCreaFech{
+		width: 30%;
+	}
+
+	.temaCmntFlex .temaDesc{
+		width: 60%;
+	}
+
+		.sectTemas.temas{
+		padding-top: 150px;
+	}
+
+		span#consejo{
+		font-size: 17px;
+	}
+
+		.sectTemas .contGnral p{
+		margin: 25px 0px 50px 0px;
+		font-size: 20px;
+	}
+
+	#h2Tema, #h3Comnt{
+	width: 50%;
+	margin: 0px auto;
+	opacity: 0.7;
+	background: #242d3d;
+	color: #fff;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+form#crearTema{
+	background-color: #fff;
+	width: 50%;
+}
+form#formcmnt{
+	background-color: #EBEBEB;
+	width: 50%;
+}
+
+.formconj span, .formtemas span, .formunico span, #formcmnt span{ 
+	color: red;
+	float: left;
+	font-size: 12px;
+	display: block;
+	height: 30px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+footer{
+	width: 100%;
+	background-image: linear-gradient(#EDEDED, #444444);
+}
+
+footer section{
+	width: 50%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: no-wrap;
+	height: 70px;
+	line-height: 70px;
+}
+
+footer div{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+#regisForm{
+	opacity: 0.7;
+	font-size: 18px;
+	line-height: 80px;
+	text-align: center;
+	color: white;
+	background: #242d3d;
+	width: 120%;
+	height: 80px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+/* Puesto nuevo */
+
+	#headerNav{
+		height: 100px;
+	}
+
+	#headerNav .contGnral{
+		width: 90%;
+	}	
+
+		.contenedorFirstInfo h2{
+		font-size: 18px;
+	}
+
+		.contGnral #temaYDesc{
+		width: 90%;
+		margin: 0 auto;
+	}
+		#contTemas span{
+		font-size: 15px;
+	}
+
+	.contenedorFormulario.formunico{
+	width: 100%;
+}
+
+/* Fin puesto nuevo */
