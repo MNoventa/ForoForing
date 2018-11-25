@@ -15,6 +15,8 @@ Hay que precisar que, si un usuario no se ha registrado en la aplicación, no po
 Todo cambia cuando una persona se registra en la aplicación o accede si ya tiene una cuenta registrada. En éste caso, tiene la oportunidad de crear tantos temas como le plazcan (que aparecerán en orden de Creacción en la sección de mostrado de todos los temas). Sobra decir también, que también se pueden escribir tantos comentarios como se desee en cualquier tema de conversación. 
 En cuanto a los anteriores, cada tema de conversación o comentarios, únicamente pueden ser borrados/editados por la persona que lo ha publicado o por una cuenta especial de Administrador.
 
+Se ha desarrollado un sistema de errores en el formulario de Registro (en el caso de que el correo o nombre de usuario ya esté en uso, el valor de la Contraseña Repetida sea distinto a la Contraseña...), en el formulario para Acceder (si el correo introducido no existe en la base de datos o la contraseña sea incorrecta), en la sección de Crear/Modificar un Comentario/Tema, dónde no dejará introducir un comentario si: el mismo no tiene valor, si excede el máximo de carácteres permitidos. Tampoco dejará introducir un tema si: el Titulo ya está introducido, si la Descripción o el Titulo excede el máximo de carácteres permitidos, si la Descripción o el Titulo no tiene valor, etc.
+
 Foring ha sido un proyecto solicitado por el **Campus Virtual de la Universidad San Valero (Zaragoza)**, y tube el propósito de crear una aplicación con un diseño moderno, haciendo uso de metodologias de programación modernas, con el patrón de arquitectura de software **Modelo Vista Controlador** y con **Programación Orientada a Objetos**.
 
 # Implementaciones:
