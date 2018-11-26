@@ -24,7 +24,7 @@ Foring ha sido un proyecto solicitado por el **Campus Virtual de la Universidad 
 - Desarrollo en **PHP** sin ayuda de ningún plugin y **MySQL**.
 - Se ha hecho uso de relaciones en las tablas.
 - Optimización y eficiencia en consultas SQL.
-- Utilización de **Modelo Vista Controlador** y **POO**.
+- Utilización de **Modelo Vista Controlador**, **POO** y **PHP Data Objects (PDO)**.
 -	Desarrollo en **Javascript** y **JQuery** sin la utilización de ningún plugin.
 -	Se he diseñado la web utilizando maquetación **CSS3**.
 -	El sitio web es **responsive** y adaptado a cualquier tipo de tamaño de pantalla.
