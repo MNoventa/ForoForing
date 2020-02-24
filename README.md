@@ -1,5 +1,4 @@
 # Foro Foring.
-- Link del sitio web: http://www.foroforing.ga/
 
 Foro Foring es una aplicación web dinamica, creada con PHP y MySQL para hacer la gestión de las bases de datos con tablas relacionadas.
 
